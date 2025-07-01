@@ -1,0 +1,11 @@
+# Build directories
+
+.next/ node_modules/ dist/ build/
+
+# Generated files
+
+_.min.js _.min.css pnpm-lock.yaml
+
+# Logs
+
+\*.log
