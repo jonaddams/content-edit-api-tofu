@@ -201,7 +201,8 @@ export default function Home() {
             <div className='bg-white rounded-lg shadow-sm border border-gray-200 h-full min-h-[600px]'>
               <div className='p-6'>
                 <div className='h-full'>
-                  <Viewer document='31682c95-a239-77e3-a86f-282a718dac08.pdf' />
+                  <Viewer document='Tofu.pdf' />
+                  {/* <Viewer document='sample-doc-with-google-fonts.pdf' /> */}
                 </div>
               </div>
             </div>
